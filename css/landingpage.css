@@ -75,7 +75,7 @@ body {
 }
 
 .language-selector a {
-    color: #D21245;
+    color: #E4032C;
     background-color: white;
     font-weight: bold;
     padding: 10px 10px;
@@ -93,7 +93,7 @@ body {
 }
 
 .footer {
-    background-color: #D21245;
+    background-color: #E4032C;
     height: auto;
     width: 100%;
     text-align: center;
@@ -110,10 +110,6 @@ body {
     display: inline;
     padding: 13px;
     z-index: 10;
-}
-
-.signature {
-    margin-top: 3em;
 }
 
 .signature em {
